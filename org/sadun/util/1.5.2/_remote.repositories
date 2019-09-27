@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 27 15:44:06 WEST 2019
+util-1.5.2.jar>=
+util-1.5.2.pom>=
+util-1.5.2.jar>mvn-repo=
+util-1.5.2.pom>mvn-repo=

@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 27 15:29:42 WEST 2019
+@default-mvn-repo-https\://rawgit.com/imitoag/maven-artifacts/master/.lastUpdated=1569594388412
+http\://mvnrepository.com/.error=
+@default-mvn-repo-https\://https\://raw.githubusercontent.com/imitoag/maven-artifacts/master/.lastUpdated=1569594562202
+http\://mvnrepository.com/.lastUpdated=1569594377494
+http\://www.dcm4che.org/maven2/.lastUpdated=1569594375433
+https\://raw.githubusercontent.com/imitoag/maven-artifacts/master/.lastUpdated=1569594582676
+https\://rawgit.com/imitoag/maven-artifacts/master/.error=Could not transfer artifact org.sadun\:clopt\:pom\:1.5.2 from/to mvn-repo (https\://rawgit.com/imitoag/maven-artifacts/master)\: Access denied to\: https\://rawgit.com/imitoag/maven-artifacts/master/org/sadun/clopt/1.5.2/clopt-1.5.2.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1569594392405
+https\://repo.maven.apache.org/maven2/.error=
+http\://www.dcm4che.org/maven2/.error=
+https\://https\://raw.githubusercontent.com/imitoag/maven-artifacts/master/.error=Could not transfer artifact org.sadun\:clopt\:pom\:1.5.2 from/to mvn-repo (https\://https\://raw.githubusercontent.com/imitoag/maven-artifacts/master)\: https\: nodename nor servname provided, or not known

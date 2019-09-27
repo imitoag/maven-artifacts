@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 27 15:44:24 WEST 2019
+jmxri-1.5.2.pom>=
+jmxri-1.5.2.jar>mvn-repo=
+jmxri-1.5.2.pom>mvn-repo=
+jmxri-1.5.2.jar>=

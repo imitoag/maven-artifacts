@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 27 15:43:47 WEST 2019
+jpoller-1.5.2.jar>=
+jpoller-1.5.2.pom>=
+jpoller-1.5.2.jar>mvn-repo=
+jpoller-1.5.2.pom>mvn-repo=

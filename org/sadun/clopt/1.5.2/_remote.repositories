@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 27 15:41:04 WEST 2019
+clopt-1.5.2.jar>=
+clopt-1.5.2.jar>mvn-repo=
+clopt-1.5.2.pom>mvn-repo=
+clopt-1.5.2.pom>=

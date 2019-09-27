@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 27 15:30:18 WEST 2019
+http\://mvnrepository.com/.error=
+@default-mvn-repo-https\://https\://raw.githubusercontent.com/imitoag/maven-artifacts/master/.lastUpdated=1569594591586
+http\://mvnrepository.com/.lastUpdated=1569594591581
+http\://www.dcm4che.org/maven2/.lastUpdated=1569594589505
+https\://raw.githubusercontent.com/imitoag/maven-artifacts/master/.lastUpdated=1569594618678
+https\://repo.maven.apache.org/maven2/.lastUpdated=1569594595490
+https\://repo.maven.apache.org/maven2/.error=
+http\://www.dcm4che.org/maven2/.error=
+https\://https\://raw.githubusercontent.com/imitoag/maven-artifacts/master/.error=Could not transfer artifact org.sadun\:util\:pom\:1.5.2 from/to mvn-repo (https\://https\://raw.githubusercontent.com/imitoag/maven-artifacts/master)\: https\: nodename nor servname provided, or not known
