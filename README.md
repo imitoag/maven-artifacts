@@ -28,7 +28,7 @@ Add those lines to the pom.xml:
 <repositories>
     <repository>
         <id>mvn-repo</id>
-        <url>https://rawgit.com/imitoag/maven-artifacts/master</url>
+        <url>https://raw.githubusercontent.com/imitoag/maven-artifacts/master</url>
         <releases>
             <enabled>true</enabled>
         </releases>
